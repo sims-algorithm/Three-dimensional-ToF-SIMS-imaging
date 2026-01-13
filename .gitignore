@@ -50,7 +50,8 @@ venv.bak/
 *.csv
 output_*
 viz_*
-roi_*
+roi_*.png
+roi_*.pdf
 
 # Testing
 .pytest_cache/
