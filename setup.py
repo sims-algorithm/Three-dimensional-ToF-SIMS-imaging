@@ -35,9 +35,9 @@ setup(
     python_requires='>=3.7',
     install_requires=[
         'numpy>=1.20.0',
-        'scipy>=1.7.0',
+        'scipy>=1.8.0',
         'matplotlib>=3.4.0',
-        'Pillow>=8.0.0',
+        'Pillow>=10.2.0',
     ],
     extras_require={
         'dev': [
